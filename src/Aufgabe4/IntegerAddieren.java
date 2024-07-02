@@ -10,11 +10,8 @@ Die Summe von x und y ist: _______
 
 
 Experimentieren Sie mit sehr großen Werten und erläutern Sie, welche Effekte auftreten und
-woran das liegt. Welchen Größenbereich verkraftet int auf unserer Maschine? Zeigen Sie dies
-unter Verwendung von sizeof.
-Bitte fügen Sie Ihre Erkenntnisse als Kommentarblock in Ihr
-Java-Programm ein.
-
+woran das liegt. 
+(Alles in Java !)
 */
 
 
